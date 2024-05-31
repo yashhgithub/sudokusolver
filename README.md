@@ -1,3 +1,5 @@
+#Sudoku-Solver
+<br>
 This code defines a SudokuSolver class with the following methods:
 
 main: This method creates a sample Sudoku board, calls the solve method to attempt solving it, and prints the solved board or a message indicating no solution was found.
